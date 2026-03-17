@@ -1,6 +1,6 @@
 EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
-~~~
+
 Aim:
  To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. Analyze the quality, accuracy, and depth of the generated responses.
 
@@ -174,4 +174,4 @@ Result
 From this experiment, it can be concluded that prompt design significantly affects the quality of AI-generated responses. A naive prompt provides only a general request, which results in a brief and less detailed explanation. In contrast, a basic prompt provides clear instructions about what information should be included, allowing the AI to generate a more accurate, structured, and comprehensive response.
 Therefore, well-defined prompts lead to better quality, higher accuracy, and deeper explanations, making them more effective for obtaining useful information from AI systems.
 
-~~~
+
